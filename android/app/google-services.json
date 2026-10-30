@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303190615649",
+    "project_id": "parkirkendaraan-ac70c",
+    "storage_bucket": "parkirkendaraan-ac70c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303190615649:android:c5447a0265f4fc18e52c20",
+        "android_client_info": {
+          "package_name": "com.example.parkir_kendaraan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1XQowbzm88pPKs4KzLnti6t6xG3W9HRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
